@@ -1,0 +1,780 @@
+{"review_num":1,"sentiment":"긍정","keywords":["정기적","잇몸치료","꾸준히"]}
+{"review_num":2,"sentiment":"긍정","keywords":["친절","상담","자세히"]}
+{"review_num":3,"sentiment":"긍정","keywords":["적합한치료","과잉진료없음","크라운","편함"]}
+{"review_num":4,"sentiment":"긍정","keywords":["신경치료","잘받음","감사"]}
+{"review_num":5,"sentiment":"긍정","keywords":["가까움","리뷰","친절","상담","감사"]}
+{"review_num":6,"sentiment":"긍정","keywords":["대표원장","진료","친절"]}
+{"review_num":7,"sentiment":"긍정","keywords":["잇몸치료","호전","재방문","만족"]}
+{"review_num":8,"sentiment":"긍정","keywords":["신경치료","안아픔","성의","만족"]}
+{"review_num":9,"sentiment":"긍정","keywords":["꼼꼼한설명","불필요한치료없음","빠름","안아픔","재방문"]}
+{"review_num":10,"sentiment":"중립","keywords":["방문","짧은후기"]}
+{"review_num":11,"sentiment":"긍정","keywords":["너무 좋아요","친절","잘해주세요"]}
+{"review_num":12,"sentiment":"긍정","keywords":["친절","좋아요","강추"]}
+{"review_num":13,"sentiment":"긍정","keywords":["치료 잘 받고","예약","다음 세팅"]}
+{"review_num":14,"sentiment":"긍정","keywords":["최고","친절","기술 좋음","의사선생님","도와주시는 선생님들"]}
+{"review_num":15,"sentiment":"긍정","keywords":["안아프게","잘해주셨어요"]}
+{"review_num":16,"sentiment":"긍정","keywords":["오랫동안","믿고","계속 다니는","진료 잘 봐주세요"]}
+{"review_num":17,"sentiment":"긍정","keywords":["스케일링","친절","검진 꼼꼼","안아프게","진료 잘 받음"]}
+{"review_num":18,"sentiment":"긍정","keywords":["치아관리 설명","검진 꼼꼼","친절","쾌적한 환경","스케일링 깔끔","감사합니다"]}
+{"review_num":19,"sentiment":"긍정","keywords":["스케일링","개운","친절"]}
+{"review_num":20,"sentiment":"긍정","keywords":["잇몸 치료","많이 좋아짐","감사합니다"]}
+{"review_num":21,"sentiment":"중립","keywords":["신경치료","마무리","예약"]}
+{"review_num":22,"sentiment":"긍정","keywords":["사랑니발치","신경치료","안아픔","세심함","친절"]}
+{"review_num":23,"sentiment":"긍정","keywords":["깨끗함","대기시간짧음","과잉진료없음","만족","추천"]}
+{"review_num":24,"sentiment":"긍정","keywords":["친절","설명","치료감사"]}
+{"review_num":25,"sentiment":"긍정","keywords":["첫방문","직원친절","꼼꼼진료","설명잘함","재방문"]}
+{"review_num":26,"sentiment":"긍정","keywords":["이상없음","기분좋음","스케일링","감사"]}
+{"review_num":27,"sentiment":"긍정","keywords":["장기내원","꼼꼼치료","불편확인","편안함"]}
+{"review_num":28,"sentiment":"중립","keywords":["신경치료","두번째","치료잘받음"]}
+{"review_num":29,"sentiment":"긍정","keywords":["친절","안아픔","치료만족"]}
+{"review_num":30,"sentiment":"긍정","keywords":["친절설명","일정빠름","예약","만족"]}
+{"review_num":31,"sentiment":"긍정","keywords":["집근처","친절","진료","치료","깔끔","분위기"]}
+{"review_num":32,"sentiment":"긍정","keywords":["신경치료","친절한설명","실력","치근관","발치걱정해소","직원친절"]}
+{"review_num":33,"sentiment":"긍정","keywords":["친절","치료","조언","적절"]}
+{"review_num":34,"sentiment":"긍정","keywords":["재방문","친절","과잉진료없음","만족"]}
+{"review_num":35,"sentiment":"긍정","keywords":["치료","추가치료예정","꼼꼼","감사","의사선생님"]}
+{"review_num":36,"sentiment":"긍정","keywords":["자세한설명","믿음","통증배려","추천","치과공포완화"]}
+{"review_num":37,"sentiment":"긍정","keywords":["첫방문","친절","진심","감사"]}
+{"review_num":38,"sentiment":"긍정","keywords":["항상친절","실력좋음","선생님"]}
+{"review_num":39,"sentiment":"긍정","keywords":["친절","치료","항상","감사"]}
+{"review_num":40,"sentiment":"긍정","keywords":["원장님","간호사","약잘발라줌","감사","시린이"]}
+{"review_num":41,"sentiment":"긍정","keywords":["통증없음","친절","편안함","위생사","추천"]}
+{"review_num":42,"sentiment":"긍정","keywords":["당일예약","대기없음","사랑니발치","빠름","재방문"]}
+{"review_num":43,"sentiment":"긍정","keywords":["치료만족","감사","무난"]}
+{"review_num":44,"sentiment":"긍정","keywords":["꼼꼼","과잉진료없음","세심함","마취안아픔","친절","설명"]}
+{"review_num":45,"sentiment":"긍정","keywords":["시린이","간단치료","자세한설명","만족"]}
+{"review_num":46,"sentiment":"긍정","keywords":["마취안아픔","친절","사랑니발치","매복사랑니","전반만족"]}
+{"review_num":47,"sentiment":"긍정","keywords":["레진치료","재방문","인레이","통증없음","빠른진료"]}
+{"review_num":48,"sentiment":"긍정","keywords":["친절","빠른치료","만족","전반만족"]}
+{"review_num":49,"sentiment":"긍정","keywords":["낭종수술","통증없음","만족"]}
+{"review_num":50,"sentiment":"긍정","keywords":["친절","자세한설명","편안한분위기","꼼꼼치료","존중","추천"]}
+{"review_num":51,"sentiment":"긍정","keywords":["스케일링","꼼꼼","친절","편안함"]}
+{"review_num":52,"sentiment":"긍정","keywords":["장기방문","친절","과잉진료없음","세심함","존중"]}
+{"review_num":53,"sentiment":"긍정","keywords":["간호사","상냥함","마취","매복사랑니","무통발치"]}
+{"review_num":54,"sentiment":"긍정","keywords":["깔끔함","분위기","안정감","친절","스케일링","통증없음"]}
+{"review_num":55,"sentiment":"긍정","keywords":["예약","스케일링","친절","꼼꼼","가족진료"]}
+{"review_num":56,"sentiment":"긍정","keywords":["간호사","친절","설명","세심함"]}
+{"review_num":57,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":58,"sentiment":"긍정","keywords":["친절","진료","만족"]}
+{"review_num":59,"sentiment":"긍정","keywords":["매복사랑니","빠른발치","긴장완화","감사","임플란트","친절"]}
+{"review_num":60,"sentiment":"긍정","keywords":["무통","치료","만족"]}
+{"review_num":61,"sentiment":"긍정","keywords":["친절","만족"]}
+{"review_num":62,"sentiment":"긍정","keywords":["스케일링","사랑니발치","꼼꼼","설명","친절"]}
+{"review_num":63,"sentiment":"긍정","keywords":["마취","발치","통증없음","편안함"]}
+{"review_num":64,"sentiment":"긍정","keywords":["친절","통증없음","치료잘함","감사"]}
+{"review_num":65,"sentiment":"긍정","keywords":["의사친절","안내친절","만족"]}
+{"review_num":66,"sentiment":"긍정","keywords":["접수친절","필요한치료","과잉진료없음","바쁨","만족"]}
+{"review_num":67,"sentiment":"중립","keywords":["인레이","임플란트","치료계획"]}
+{"review_num":68,"sentiment":"긍정","keywords":["친절","강추","치료잘함","턱보톡스","효과좋음"]}
+{"review_num":69,"sentiment":"긍정","keywords":["스케일링","꼼꼼","친절응대","만족"]}
+{"review_num":70,"sentiment":"긍정","keywords":["친절","깔끔","설명잘함","만족"]}
+{"review_num":71,"sentiment":"중립","keywords":["내용없음","리뷰누락"]}
+{"review_num":72,"sentiment":"긍정","keywords":["대기시간없음","꼼꼼한치료","자세한설명","친절"]}
+{"review_num":73,"sentiment":"긍정","keywords":["깨끗한병원","친절한직원","설명잘함","만족","추천"]}
+{"review_num":74,"sentiment":"긍정","keywords":["좋아요","만족","친절"]}
+{"review_num":75,"sentiment":"긍정","keywords":["친절한안내","꼼꼼한스케일링","설명","이해도움","치료두려움"]}
+{"review_num":76,"sentiment":"긍정","keywords":["예약방문","전원친절","상담잘함"]}
+{"review_num":77,"sentiment":"긍정","keywords":["친절","세심함","치실사용법","자세한설명","매우만족","소개"]}
+{"review_num":78,"sentiment":"긍정","keywords":["깨끗함","깔끔함","친절","자세한설명"]}
+{"review_num":79,"sentiment":"긍정","keywords":["꼼꼼한스케일링","사진촬영","엑스레이","상태설명","충치예방법","추천"]}
+{"review_num":80,"sentiment":"긍정","keywords":["친절한설명","질문응답","과잉진료없음","편안함","단골"]}
+{"review_num":81,"sentiment":"긍정","keywords":["친절","편안한 진료","꼼꼼함","만족"]}
+{"review_num":82,"sentiment":"긍정","keywords":["마무리","잘해줌","감사"]}
+{"review_num":83,"sentiment":"긍정","keywords":["깔끔한 치료","만족"]}
+{"review_num":84,"sentiment":"긍정","keywords":["대기 없음","바로 진료","편안함","통증 없음","긴장 완화"]}
+{"review_num":85,"sentiment":"긍정","keywords":["친절","통증 없음","진료 만족"]}
+{"review_num":86,"sentiment":"긍정","keywords":["진료","만족"]}
+{"review_num":87,"sentiment":"중립","keywords":["발치","빠름","순식간"]}
+{"review_num":88,"sentiment":"긍정","keywords":["친절","통증 없음","치료 잘함","마취 통증 없음"]}
+{"review_num":89,"sentiment":"긍정","keywords":["친절","과잉진료 없음","빠른 치료","통증 없음","마취 안 아픔","세심한 배려","만족"]}
+{"review_num":90,"sentiment":"긍정","keywords":["친절","발치","잘해줌","감사"]}
+{"review_num":91,"sentiment":"긍정","keywords":["설명 꼼꼼","친절","마취 안 아픔","치료 만족"]}
+{"review_num":92,"sentiment":"긍정","keywords":["최고","직원 친절","설명 잘함","대만족","치료 중"]}
+{"review_num":93,"sentiment":"긍정","keywords":["시설 좋음","서비스","의사 친절","큰 병원 같음","믿고 맡김"]}
+{"review_num":94,"sentiment":"긍정","keywords":["리뷰 보고 방문","데스크 친절","접수 수월","과잉진료 없음","꼼꼼한 설명","추천"]}
+{"review_num":95,"sentiment":"긍정","keywords":["항상 친절","빠른 진료","만족"]}
+{"review_num":96,"sentiment":"긍정","keywords":["충치","첫 방문","자세한 설명","재방문 의사"]}
+{"review_num":97,"sentiment":"긍정","keywords":["과잉진료 없음","꼼꼼","친절","보험 적용 설명","데스크 직원","치위생사"]}
+{"review_num":98,"sentiment":"긍정","keywords":["치료 잘 받음","지속 내원","만족"]}
+{"review_num":99,"sentiment":"긍정","keywords":["접근성","역 근처","깔끔한 병원","친절","꼼꼼한 진료"]}
+{"review_num":100,"sentiment":"긍정","keywords":["통증 개선","재방문","검진","친절","진료 잘함"]}
+{"review_num":101,"sentiment":"긍정","keywords":["추천","친절","안 아프게","진료"]}
+{"review_num":102,"sentiment":"긍정","keywords":["깔끔","친절","검진","집 근처"]}
+{"review_num":103,"sentiment":"긍정","keywords":["친절","바로바로","진료","만족"]}
+{"review_num":104,"sentiment":"긍정","keywords":["친절","스케일링","빠름","안 아프게","만족"]}
+{"review_num":105,"sentiment":"긍정","keywords":["깔끔","청결","친절","자세히 안내","추천"]}
+{"review_num":106,"sentiment":"긍정","keywords":["설명","친절","치료","무서움 해소","재방문"]}
+{"review_num":107,"sentiment":"긍정","keywords":["온가족","이용","만족","재이용"]}
+{"review_num":108,"sentiment":"긍정","keywords":["자세한 설명","마취 안 아픔","통증 없음","친절","치과 공포 해소"]}
+{"review_num":109,"sentiment":"긍정","keywords":["정기검진","스케일링","꼼꼼","체크","만족"]}
+{"review_num":110,"sentiment":"긍정","keywords":["친절","상담","빠른 치료","스케일링 안 아픔","감사"]}
+{"review_num":111,"sentiment":"긍정","keywords":["아주아주","친절"]}
+{"review_num":112,"sentiment":"긍정","keywords":["정기검진","스케일링","항상","친절"]}
+{"review_num":113,"sentiment":"긍정","keywords":["원장님","친절"]}
+{"review_num":114,"sentiment":"긍정","keywords":["간호사님","친절","좋아요"]}
+{"review_num":115,"sentiment":"긍정","keywords":["처음","친절","비용","저렴"]}
+{"review_num":116,"sentiment":"긍정","keywords":["안아프게","친절","잘해주십니다"]}
+{"review_num":117,"sentiment":"긍정","keywords":["원장선생님","직원","친절","안아프"]}
+{"review_num":118,"sentiment":"긍정","keywords":["스케일링","꼼꼼","시린것","떼워주셨어요","친절","진료","감사"]}
+{"review_num":119,"sentiment":"긍정","keywords":["친절","감사","원장님","모든분들"]}
+{"review_num":120,"sentiment":"긍정","keywords":["치아","잇몸","때우는","하루","진료","좋았습니다"]}
+{"review_num":121,"sentiment":"긍정","keywords":["친절","빠른 진료","만족"]}
+{"review_num":122,"sentiment":"긍정","keywords":["스케일링","친절","깔끔","만족"]}
+{"review_num":123,"sentiment":"긍정","keywords":["친절","상담","걱정 감소","의사","직원"]}
+{"review_num":124,"sentiment":"긍정","keywords":["친절","설명","대기시간 짧음","만족"]}
+{"review_num":125,"sentiment":"긍정","keywords":["사랑니 발치","빠른 예약","마취","통증 관리","대응"]}
+{"review_num":126,"sentiment":"긍정","keywords":["아이","무서움 감소","칭찬","진료"]}
+{"review_num":127,"sentiment":"긍정","keywords":["충치치료","사랑니 발치","추천","친절","안 아픔"]}
+{"review_num":128,"sentiment":"긍정","keywords":["발치","친절","만족"]}
+{"review_num":129,"sentiment":"긍정","keywords":["친절","안 아픔","감사"]}
+{"review_num":130,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":131,"sentiment":"긍정","keywords":["만족","긍정이모지"]}
+{"review_num":132,"sentiment":"긍정","keywords":["마취","통증없음","친절","시술만족"]}
+{"review_num":133,"sentiment":"긍정","keywords":["첫방문","친절","빠른치료","당일치료","만족"]}
+{"review_num":134,"sentiment":"긍정","keywords":["예약","대기없음","친절","깔끔한시설"]}
+{"review_num":135,"sentiment":"긍정","keywords":["첫방문","친절한설명","진료만족"]}
+{"review_num":136,"sentiment":"긍정","keywords":["친절","빠른진료","만족"]}
+{"review_num":137,"sentiment":"긍정","keywords":["친절","깨끗한시설","검진","상세진료"]}
+{"review_num":138,"sentiment":"긍정","keywords":["친절","자세한설명","불필요한권유없음","만족"]}
+{"review_num":139,"sentiment":"긍정","keywords":["친절","과잉진료없음","꼼꼼함","설명잘함","재방문"]}
+{"review_num":140,"sentiment":"긍정","keywords":["친절","설명","섬세한치료","만족"]}
+{"review_num":141,"sentiment":"긍정","keywords":["친절","진료","서비스","만족"]}
+{"review_num":142,"sentiment":"긍정","keywords":["친절","진료","빠름","신속"]}
+{"review_num":143,"sentiment":"긍정","keywords":["과잉진료없음","치료","필요한치료","만족"]}
+{"review_num":144,"sentiment":"긍정","keywords":["발치","빠름","안아픔","배려","추천"]}
+{"review_num":145,"sentiment":"긍정","keywords":["충치치료","설명","편안함","진료","감사"]}
+{"review_num":146,"sentiment":"긍정","keywords":["만족","추천","좋음"]}
+{"review_num":147,"sentiment":"긍정","keywords":["발치","안아픔","친절","시설","깔끔","추천"]}
+{"review_num":148,"sentiment":"긍정","keywords":["친절","빠름","신속","만족"]}
+{"review_num":149,"sentiment":"긍정","keywords":["친절","만족","진료"]}
+{"review_num":150,"sentiment":"긍정","keywords":["깨끗함","친절","과잉진료없음","편안함","진행"]}
+{"review_num":151,"sentiment":"긍정","keywords":["치료 빠름","통증 적음"]}
+{"review_num":152,"sentiment":"긍정","keywords":["사랑니 발치","통증 적음"]}
+{"review_num":153,"sentiment":"긍정","keywords":["충치치료","마취","통증 적음","치료 빠름","재방문 의사"]}
+{"review_num":154,"sentiment":"중립","keywords":["진료 만족"]}
+{"review_num":155,"sentiment":"긍정","keywords":["임플란트","인레이","꼼꼼함","스케일링","통증 적음","가족 내원","추천"]}
+{"review_num":156,"sentiment":"긍정","keywords":["충치","레진","치료 만족"]}
+{"review_num":157,"sentiment":"긍정","keywords":["지인소개","상세 설명","스케일링","정기치료 의사"]}
+{"review_num":158,"sentiment":"긍정","keywords":["친절","통증 적음"]}
+{"review_num":159,"sentiment":"긍정","keywords":["과잉진료 없음","친절","재방문"]}
+{"review_num":160,"sentiment":"긍정","keywords":["친절","깨끗함"]}
+{"review_num":161,"sentiment":"긍정","keywords":["사랑니","안아프게","친절","실밥"]}
+{"review_num":162,"sentiment":"긍정","keywords":["친절","빠른진료","신속"]}
+{"review_num":163,"sentiment":"긍정","keywords":["간호사","원장님","친절","안아프게","치료"]}
+{"review_num":164,"sentiment":"긍정","keywords":["항상","친절","감사"]}
+{"review_num":165,"sentiment":"긍정","keywords":["친절","세심","진료","좋습니다"]}
+{"review_num":166,"sentiment":"긍정","keywords":["친절","필요한진료","안내","과잉진료없음"]}
+{"review_num":167,"sentiment":"긍정","keywords":["진료","안아픔","잇몸치료","만족"]}
+{"review_num":168,"sentiment":"긍정","keywords":["친절","스케일링","양치법","꼼꼼","추천"]}
+{"review_num":169,"sentiment":"긍정","keywords":["임플란트","잇몸","인테리어","친절","상담","서류","안아프게"]}
+{"review_num":170,"sentiment":"긍정","keywords":["친절","불필요한비용없음","치료","배려"]}
+{"review_num":171,"sentiment":"긍정","keywords":["턱관절 통증 완화","꼼꼼한 진료","간호사 친절","편안한 분위기"]}
+{"review_num":172,"sentiment":"긍정","keywords":["신경치료","자연치아 보존","과잉진료 없음","신뢰"]}
+{"review_num":173,"sentiment":"긍정","keywords":["친절한 응대","통증 최소화","배려","만족"]}
+{"review_num":174,"sentiment":"긍정","keywords":["간호사 친절","수술 실력","안전","오랜 내원"]}
+{"review_num":175,"sentiment":"긍정","keywords":["스케일링","빠른 진행","친절","설명 만족"]}
+{"review_num":176,"sentiment":"긍정","keywords":["매복 사랑니","친절","안심","발치 실력"]}
+{"review_num":177,"sentiment":"긍정","keywords":["깨끗한 시설","쾌적한 환경","친절한 진료","추천"]}
+{"review_num":178,"sentiment":"긍정","keywords":["레진 치료","친절","꼼꼼함","자세한 설명"]}
+{"review_num":179,"sentiment":"긍정","keywords":["사랑니 발치","통증 없음","친절한 설명","만족"]}
+{"review_num":180,"sentiment":"긍정","keywords":["스케일링","정기검진","꼼꼼함","친절한 설명"]}
+{"review_num":181,"sentiment":"긍정","keywords":["본드 탈락","과잉진료 없음","치료 만족"]}
+{"review_num":182,"sentiment":"긍정","keywords":["스케일링","통증 없음","깔끔함","재방문 의사"]}
+{"review_num":183,"sentiment":"긍정","keywords":["발치","친절","치료과정 깔끔","신뢰"]}
+{"review_num":184,"sentiment":"긍정","keywords":["스케일링","시림","친절","자세한 설명","통증 없음"]}
+{"review_num":185,"sentiment":"긍정","keywords":["스케일링","마취","안 아픔","추천"]}
+{"review_num":186,"sentiment":"긍정","keywords":["임플란트 상담","친절한 설명","섬세함","통증 없음","가족 추천"]}
+{"review_num":187,"sentiment":"긍정","keywords":["원장 친절","안심","감사"]}
+{"review_num":188,"sentiment":"긍정","keywords":["첫 방문","꼼꼼한 설명","계속 치료","감사"]}
+{"review_num":189,"sentiment":"긍정","keywords":["의료진 친절","자세한 설명","두려움 감소","감동"]}
+{"review_num":190,"sentiment":"긍정","keywords":["집 가까움","임플란트","무통증","걱정 해소","가족 추천"]}
+{"review_num":191,"sentiment":"긍정","keywords":["친절","꼼꼼한 치료","재방문 의사","임플란트"]}
+{"review_num":192,"sentiment":"긍정","keywords":["마취","통증 적음","잇몸치료","사랑니 발치","의사 실력"]}
+{"review_num":193,"sentiment":"긍정","keywords":["사랑니 발치","친절","꼼꼼한 설명","주의사항 안내","정기 내원"]}
+{"review_num":194,"sentiment":"긍정","keywords":["친절","자세한 설명","스케일링","통증 없음","개운함"]}
+{"review_num":195,"sentiment":"긍정","keywords":["스케일링","통증 적음","꼼꼼함","상쾌함","잇몸치료"]}
+{"review_num":196,"sentiment":"긍정","keywords":["친절","자세한 설명","통증 없음","치아손상 최소","맞춤 시술"]}
+{"review_num":197,"sentiment":"긍정","keywords":["턱관절 통증","치료 효과","친절","병원 깔끔","추천"]}
+{"review_num":198,"sentiment":"긍정","keywords":["신경치료","마취 통증","이후 통증 없음","친절","전문성"]}
+{"review_num":199,"sentiment":"긍정","keywords":["치과 공포","마취주사","통증 적음","친절","병원 깔끔"]}
+{"review_num":200,"sentiment":"긍정","keywords":["친절","비용 저렴","깔끔함","만족","잘함"]}
+{"review_num":201,"sentiment":"긍정","keywords":["친절","안아픔","치료","만족"]}
+{"review_num":202,"sentiment":"긍정","keywords":["검진","스케일링","섬세한진료","레진","재방문"]}
+{"review_num":203,"sentiment":"긍정","keywords":["안아픔","시원함","친절","감사","긴장완화"]}
+{"review_num":204,"sentiment":"긍정","keywords":["스케일링","사랑니발치","인레이","신뢰감","마취","통증적음","설명"]}
+{"review_num":205,"sentiment":"긍정","keywords":["친절","설명","진료","만족"]}
+{"review_num":206,"sentiment":"긍정","keywords":["자세한설명","만족","구강검진","추천","진료"]}
+{"review_num":207,"sentiment":"긍정","keywords":["친절","꼼꼼","자세한설명","초진","응대"]}
+{"review_num":208,"sentiment":"긍정","keywords":["턱관절","물리치료","친절","세세한답변","만족"]}
+{"review_num":209,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":210,"sentiment":"긍정","keywords":["사랑니발치","소독","예약안내","대기짧음","친절","야간진료","정기검진"]}
+{"review_num":211,"sentiment":"긍정","keywords":["친절","만족","서비스"]}
+{"review_num":212,"sentiment":"긍정","keywords":["꼼꼼","세심","깨끗","친절","사랑니발치","재방문"]}
+{"review_num":213,"sentiment":"긍정","keywords":["친절","분위기","턱관절","가까움","만족"]}
+{"review_num":214,"sentiment":"긍정","keywords":["통증없음","만족","진료"]}
+{"review_num":215,"sentiment":"긍정","keywords":["친절","꼼꼼","진료","재방문"]}
+{"review_num":216,"sentiment":"중립","keywords":["이모티콘","의견없음","표현"]}
+{"review_num":217,"sentiment":"긍정","keywords":["친절","깨끗","시설","치아살림","원장","만족"]}
+{"review_num":218,"sentiment":"긍정","keywords":["예약","대기없음","친절한설명","꼼꼼","편안함"]}
+{"review_num":219,"sentiment":"긍정","keywords":["통증적음","빠름","신경치료","사랑니발치","두려움해소"]}
+{"review_num":220,"sentiment":"긍정","keywords":["친절","서비스","최신","치료","만족"]}
+{"review_num":221,"sentiment":"긍정","keywords":["친절","기분좋음","치료만족"]}
+{"review_num":222,"sentiment":"긍정","keywords":["친절","편안함","치료만족"]}
+{"review_num":223,"sentiment":"긍정","keywords":["스케일링","안아픔","빠른진료","웰컴선물","재방문의사"]}
+{"review_num":224,"sentiment":"긍정","keywords":["안아픔","치료잘함","사랑니발치","검색방문"]}
+{"review_num":225,"sentiment":"긍정","keywords":["임플란트","친절","만족","경과관찰"]}
+{"review_num":226,"sentiment":"긍정","keywords":["친절","신뢰","진료잘함"]}
+{"review_num":227,"sentiment":"긍정","keywords":["친절","원장님","자상함"]}
+{"review_num":228,"sentiment":"긍정","keywords":["설명잘함","친절","안아픔","빠른치료"]}
+{"review_num":229,"sentiment":"긍정","keywords":["임플란트","통증없음","만족","시술잘함"]}
+{"review_num":230,"sentiment":"긍정","keywords":["최고","친절","강추","치아잇몸","진료만족"]}
+{"review_num":231,"sentiment":"긍정","keywords":["친절","설명","집근처","검진","시설","깔끔"]}
+{"review_num":232,"sentiment":"긍정","keywords":["마취","통증없음","발치","사랑니","재방문"]}
+{"review_num":233,"sentiment":"긍정","keywords":["잇몸치료","후처치","약","꼼꼼","처치"]}
+{"review_num":234,"sentiment":"긍정","keywords":["잇몸통증","충치","친절","상세설명","통증없음","안심","신뢰"]}
+{"review_num":235,"sentiment":"긍정","keywords":["친절","상담","쾌적","스케일링","시원함"]}
+{"review_num":236,"sentiment":"긍정","keywords":["친절","치료","만족","원장님","샘"]}
+{"review_num":237,"sentiment":"긍정","keywords":["과잉진료없음","필요한진료","신뢰","후기","치과선택"]}
+{"review_num":238,"sentiment":"긍정","keywords":["친절","꼼꼼","깔끔","스케일링","아프지않음"]}
+{"review_num":239,"sentiment":"긍정","keywords":["사랑니","발치","친절","설명","실력","통증없음","감사"]}
+{"review_num":240,"sentiment":"긍정","keywords":["추천","부부","친절","설명","만족","재방문"]}
+{"review_num":241,"sentiment":"긍정","keywords":["경험","임플란트","빠른시술","합리적가격","사후관리","안심"]}
+{"review_num":242,"sentiment":"긍정","keywords":["사랑니발치","실밥제거","세심함","친절","만족"]}
+{"review_num":243,"sentiment":"긍정","keywords":["친절","실력","만족","재방문의사","정착"]}
+{"review_num":244,"sentiment":"긍정","keywords":["사랑니","염증","마취안아픔","발치","꼼꼼함","설명","만족"]}
+{"review_num":245,"sentiment":"긍정","keywords":["잇몸염증","재신경치료","안심","통증없음","편안함","친절","자세한설명","재방문"]}
+{"review_num":246,"sentiment":"긍정","keywords":["깔끔함","전문성","친절","만족","재방문의사"]}
+{"review_num":247,"sentiment":"긍정","keywords":["검진","친절","기분좋음","성의","만족","감사"]}
+{"review_num":248,"sentiment":"긍정","keywords":["야간진료","늦은시간","퇴근후방문","친절","감사"]}
+{"review_num":249,"sentiment":"긍정","keywords":["꾸준한방문","가격","가성비","만족"]}
+{"review_num":250,"sentiment":"긍정","keywords":["친절","통증적음","꼼꼼함","섬세함","만족"]}
+{"review_num":251,"sentiment":"긍정","keywords":["통증적음","신경치료","스케일링","병원청결","친절","만족"]}
+{"review_num":252,"sentiment":"긍정","keywords":["정기검진","친절","과잉진료없음","신뢰"]}
+{"review_num":253,"sentiment":"긍정","keywords":["친절","배려","신경치료회피","주사통증적음","추천"]}
+{"review_num":254,"sentiment":"긍정","keywords":["대기없음","친절","꼼꼼진료","추천","재방문의사"]}
+{"review_num":255,"sentiment":"긍정","keywords":["발치","빠름","통증적음","만족"]}
+{"review_num":256,"sentiment":"긍정","keywords":["발치빠름","통증적음","설명자세","친절","사랑니"]}
+{"review_num":257,"sentiment":"긍정","keywords":["친절","설명자세","빠른처치","감사"]}
+{"review_num":258,"sentiment":"긍정","keywords":["통증체크","설명상세","치료안심","친절"]}
+{"review_num":259,"sentiment":"긍정","keywords":["설명친절","치료꼼꼼","대기짧음","과잉진료없음","치과공포완화"]}
+{"review_num":260,"sentiment":"긍정","keywords":["과잉치료없음","친절","만족"]}
+{"review_num":261,"sentiment":"긍정","keywords":["최고","안 아픔","시술 만족"]}
+{"review_num":262,"sentiment":"긍정","keywords":["정기검진","꼼꼼한 진료","예방","진료비 합리적"]}
+{"review_num":263,"sentiment":"긍정","keywords":["스케일링","안 아픔","최고"]}
+{"review_num":264,"sentiment":"긍정","keywords":["사랑니 발치","빠른 발치","안 아픔","병원 깨끗","친절"]}
+{"review_num":265,"sentiment":"긍정","keywords":["사랑니 발치 후","소독","예약 지각","친절","빠른 처치"]}
+{"review_num":266,"sentiment":"긍정","keywords":["자세한 상담","친절","좋은 시설","의료장비","편안한 치료"]}
+{"review_num":267,"sentiment":"긍정","keywords":["꼼꼼한 진료","아이 친절","시설 깨끗","과잉진료 없음"]}
+{"review_num":268,"sentiment":"긍정","keywords":["사랑니 발치","친절","치료계획 설명","마취","안 아픔"]}
+{"review_num":269,"sentiment":"긍정","keywords":["직원 친절","안 아픈 진료","추천","강추"]}
+{"review_num":270,"sentiment":"긍정","keywords":["친절한 치료","상담 만족","첫 방문","좋은 경험"]}
+{"review_num":271,"sentiment":"긍정","keywords":["친절","안 아픈 치료","감사","진료"]}
+{"review_num":272,"sentiment":"중립","keywords":["내용없음","빈 리뷰"]}
+{"review_num":273,"sentiment":"긍정","keywords":["친절","진료","잘 봐줌"]}
+{"review_num":274,"sentiment":"긍정","keywords":["친절","설명 자세함","스케일링","안 아픔","마취","수납 친절","손기술","치과 공포 감소"]}
+{"review_num":275,"sentiment":"긍정","keywords":["크라운","최종검진","친절","응대","처음부터 마무리까지","번창"]}
+{"review_num":276,"sentiment":"긍정","keywords":["잇몸치료","마취주사 안 아픔","마취효과","친절","간호사"]}
+{"review_num":277,"sentiment":"긍정","keywords":["아이 진료","발치","안 아픔","친절","첫 방문","가족 추천"]}
+{"review_num":278,"sentiment":"긍정","keywords":["친절","편안함","가격 착함","좋은 치과"]}
+{"review_num":279,"sentiment":"긍정","keywords":["사랑니 발치","빠름","통증 없음","만족"]}
+{"review_num":280,"sentiment":"긍정","keywords":["스케일링","통증완화 마취","시림 없음","꼼꼼한 체크","치과 공포 감소","재방문 의사","정착"]}
+{"review_num":281,"sentiment":"긍정","keywords":["발치","친절","안아픔","마취","설명","센스","추천"]}
+{"review_num":282,"sentiment":"긍정","keywords":["잇몸치료","꼼꼼","친절","편안함","기분좋음","가족","최고"]}
+{"review_num":283,"sentiment":"긍정","keywords":["친절","빠름","치료","만족"]}
+{"review_num":284,"sentiment":"긍정","keywords":["스케일링","건강검진","꼼꼼","친절","기분좋음"]}
+{"review_num":285,"sentiment":"긍정","keywords":["친절","문제점발견","치료","원장","만족"]}
+{"review_num":286,"sentiment":"긍정","keywords":["깨끗함","친절","무서움완화","편안함","진료","감사"]}
+{"review_num":287,"sentiment":"긍정","keywords":["첫방문","꼼꼼","친절","상세설명","상담"]}
+{"review_num":288,"sentiment":"긍정","keywords":["사랑니","발치","안아픔","빠름","만족"]}
+{"review_num":289,"sentiment":"긍정","keywords":["편안함","불편함없음","원장","친절","간호사","만족"]}
+{"review_num":290,"sentiment":"긍정","keywords":["사랑니","발치","안아픔","빠름","감사"]}
+{"review_num":291,"sentiment":"긍정","keywords":["마취","안아픔","치료","통증없음"]}
+{"review_num":292,"sentiment":"긍정","keywords":["단골","정직한치료","안아프게","신뢰"]}
+{"review_num":293,"sentiment":"긍정","keywords":["청결","정리정돈","신뢰","설명","치료내역"]}
+{"review_num":294,"sentiment":"긍정","keywords":["사랑니발치","마취주사","통증없음","빠름","무감각"]}
+{"review_num":295,"sentiment":"긍정","keywords":["상세설명","대기시간","과잉진료없음","편안한진료"]}
+{"review_num":296,"sentiment":"긍정","keywords":["크라운치료","친절","검진","치아손상"]}
+{"review_num":297,"sentiment":"긍정","keywords":["아기","충치점검","친절","만족"]}
+{"review_num":298,"sentiment":"긍정","keywords":["신뢰","잇몸치료","친절","설명","손빠름","감사"]}
+{"review_num":299,"sentiment":"긍정","keywords":["걱정","안아픔","만족","통증없음"]}
+{"review_num":300,"sentiment":"긍정","keywords":["치료","원활","진행","만족"]}
+{"review_num":301,"sentiment":"긍정","keywords":["잇몸치료","통증없음","마취","긴장완화","꼼꼼함","감사"]}
+{"review_num":302,"sentiment":"긍정","keywords":["치과공포","친구추천","빠른치료","안아픔","정확한진료","필요한치료"]}
+{"review_num":303,"sentiment":"긍정","keywords":["친절","스케일링","원장님","데스크","감사"]}
+{"review_num":304,"sentiment":"긍정","keywords":["사랑니발치","소독","상세설명","직원친절","잇몸치료","통증걱정"]}
+{"review_num":305,"sentiment":"긍정","keywords":["스케일링","정기검진","네이버예약","상담친절","사랑니발치","통증없음","빠른발치","사후전화"]}
+{"review_num":306,"sentiment":"긍정","keywords":["깨끗한환경","쾌적","사랑니발치","꼼꼼한관리","안심"]}
+{"review_num":307,"sentiment":"긍정","keywords":["정기검진","스케일링","치위생사친절","시린부위체크","꼼꼼함","재방문"]}
+{"review_num":308,"sentiment":"긍정","keywords":["자세한설명","과잉진료없음","치아보존","친절","정기방문","만족"]}
+{"review_num":309,"sentiment":"긍정","keywords":["사랑니발치","무서움해소","순식간","마취","통증없음","재발치의사"]}
+{"review_num":310,"sentiment":"긍정","keywords":["사랑니치료","발치잘함","일반식","지병배려","처방신경","통증없음","생활편함"]}
+{"review_num":311,"sentiment":"긍정","keywords":["친절","상담","치료 만족","과잉진료 없음","비용","재예약","감사"]}
+{"review_num":312,"sentiment":"긍정","keywords":["정기진료","원장님 친절","직원 친절","스케일링","안아픔","칫솔 제공","재방문"]}
+{"review_num":313,"sentiment":"긍정","keywords":["내부 깨끗","친절","안아픔"]}
+{"review_num":314,"sentiment":"긍정","keywords":["소개","의사 친절","꼼꼼한 설명","간호사 친절"]}
+{"review_num":315,"sentiment":"긍정","keywords":["치과치료","병원 깔끔","친절"]}
+{"review_num":316,"sentiment":"긍정","keywords":["직원 친절","안아픔","치료","재방문 의사"]}
+{"review_num":317,"sentiment":"긍정","keywords":["사랑니 발치","빠름","안아픔","친절","감사"]}
+{"review_num":318,"sentiment":"긍정","keywords":["깨끗함","친절","신경치료","사랑니 발치 예약"]}
+{"review_num":319,"sentiment":"긍정","keywords":["데스크 친절","치위생사","의사","치료 만족","추가 치료"]}
+{"review_num":320,"sentiment":"긍정","keywords":["사랑니 발치","직원 친절","안아픔","빠름","안전","걱정 해소","후회 없음"]}
+{"review_num":321,"sentiment":"긍정","keywords":["친절한 응대","깨끗한 공간","치과 선택"]}
+{"review_num":322,"sentiment":"긍정","keywords":["안 아프게","치료 잘함","친절","감사"]}
+{"review_num":323,"sentiment":"긍정","keywords":["치료 전 설명","불안 감소","친절","원장님","선생님들"]}
+{"review_num":324,"sentiment":"긍정","keywords":["친절한 진료","스케일링","잇몸 마사지","치실 사용법","양치질 방법","감사"]}
+{"review_num":325,"sentiment":"긍정","keywords":["친절한 설명","꼼꼼한 마취","안 아프게","사랑니 발치","진통제"]}
+{"review_num":326,"sentiment":"긍정","keywords":["6개월 치료","안 아프게 치료","편안한 진료","친절","꼼꼼","감사"]}
+{"review_num":327,"sentiment":"긍정","keywords":["공황","위로","안정","손잡아줌","인플란트","저렴","친절","최고"]}
+{"review_num":328,"sentiment":"긍정","keywords":["조곤조곤 설명","치료 잘함","깔끔한 병원"]}
+{"review_num":329,"sentiment":"긍정","keywords":["친절","치료 잘함","감사"]}
+{"review_num":330,"sentiment":"긍정","keywords":["사랑니 발치","안 아픔","빠름","친절","감사"]}
+{"review_num":331,"sentiment":"긍정","keywords":["친절","빠른진료","따뜻한응대","만족","치과선택"]}
+{"review_num":332,"sentiment":"긍정","keywords":["무통","빠른발치","감사"]}
+{"review_num":333,"sentiment":"긍정","keywords":["무통치료","스케일링","덜시림","친절","두려움해소"]}
+{"review_num":334,"sentiment":"긍정","keywords":["신경치료","무통","순조로움","긴장완화","좋음"]}
+{"review_num":335,"sentiment":"긍정","keywords":["상담","진료만족","통증","친절"]}
+{"review_num":336,"sentiment":"긍정","keywords":["친절한상담","설명충분","레진치료","만족","재방문의사","주차"]}
+{"review_num":337,"sentiment":"긍정","keywords":["자세한설명","안심","무통","추천의사","친절"]}
+{"review_num":338,"sentiment":"긍정","keywords":["검진","스케일링","친절","상세설명","만족"]}
+{"review_num":339,"sentiment":"긍정","keywords":["깔끔함","쾌적함","마취","무통치료","겁보배려"]}
+{"review_num":340,"sentiment":"긍정","keywords":["친절","설명","만족","재방문의사","단골"]}
+{"review_num":341,"sentiment":"긍정","keywords":["친절한 설명","통증 적음","치료 잘함"]}
+{"review_num":342,"sentiment":"긍정","keywords":["치료 잘함","꼼꼼함","신뢰","추천","치아 보존"]}
+{"review_num":343,"sentiment":"긍정","keywords":["스케일링 만족","마모 치료","정기치료 희망"]}
+{"review_num":344,"sentiment":"긍정","keywords":["매복사랑니 발치","쉬움","감사"]}
+{"review_num":345,"sentiment":"긍정","keywords":["대만족","스케일링 안 아픔","꼼꼼한 검진","친절한 설명","안심"]}
+{"review_num":346,"sentiment":"긍정","keywords":["항상 친절","감사","치료 만족"]}
+{"review_num":347,"sentiment":"긍정","keywords":["친절","과잉진료 없음","신뢰"]}
+{"review_num":348,"sentiment":"긍정","keywords":["예약","대기 적음","바로 치료","시간 절약","추천"]}
+{"review_num":349,"sentiment":"긍정","keywords":["친절한 상담","편안함","치과 공포 해소","감사"]}
+{"review_num":350,"sentiment":"긍정","keywords":["신경치료","덜 아픔","친절","추천"]}
+{"review_num":351,"sentiment":"긍정","keywords":["친절","진료","만족"]}
+{"review_num":352,"sentiment":"긍정","keywords":["충치치료","사랑니발치","안아픔","설명","친절"]}
+{"review_num":353,"sentiment":"긍정","keywords":["친절","원장","직원","정착"]}
+{"review_num":354,"sentiment":"긍정","keywords":["친절","과잉진료없음","설명","안아픔","만족"]}
+{"review_num":355,"sentiment":"긍정","keywords":["꼼꼼","확인","친절","실력","재방문"]}
+{"review_num":356,"sentiment":"긍정","keywords":["친절","설명","이해","소통"]}
+{"review_num":357,"sentiment":"긍정","keywords":["안아픔","좋아요"]}
+{"review_num":358,"sentiment":"긍정","keywords":["신뢰","친절","설명","소통","과잉진료우려해소"]}
+{"review_num":359,"sentiment":"긍정","keywords":["깨끗함","친절","자세한설명","안아픔","가족방문"]}
+{"review_num":360,"sentiment":"긍정","keywords":["사랑니발치","안아픔","친절","빠름","재방문의사"]}
+{"review_num":361,"sentiment":"긍정","keywords":["친절","진료","만족"]}
+{"review_num":362,"sentiment":"긍정","keywords":["재방문","불소도포","친절","거부감없음","스케일링"]}
+{"review_num":363,"sentiment":"긍정","keywords":["스케일링","가글마취","안심","꼼꼼한상담","통증완화"]}
+{"review_num":364,"sentiment":"긍정","keywords":["정기스케일링","감사","만족"]}
+{"review_num":365,"sentiment":"긍정","keywords":["시설깔끔","친절","편안함","진료만족"]}
+{"review_num":366,"sentiment":"긍정","keywords":["세심한치료","무상치료","임플란트","시린이케어","따뜻함"]}
+{"review_num":367,"sentiment":"긍정","keywords":["친절","만족"]}
+{"review_num":368,"sentiment":"긍정","keywords":["친절","진료","감사"]}
+{"review_num":369,"sentiment":"긍정","keywords":["친절한설명","안아픔","치료","만족","첫방문"]}
+{"review_num":370,"sentiment":"긍정","keywords":["스케일링","안아픔","임플란트","치료잘함"]}
+{"review_num":371,"sentiment":"긍정","keywords":["추천","친절","꼼꼼","안내"]}
+{"review_num":372,"sentiment":"긍정","keywords":["친절","치료","추천","감사","잘 부탁"]}
+{"review_num":373,"sentiment":"긍정","keywords":["집 가까움","원장님","직원 친절","안 아픔","치료"]}
+{"review_num":374,"sentiment":"긍정","keywords":["상담 친절","진료","스케일링","안 아픔","예약 안내"]}
+{"review_num":375,"sentiment":"긍정","keywords":["꼼꼼","좋음"]}
+{"review_num":376,"sentiment":"긍정","keywords":["모두 친절","치료","안 아픔"]}
+{"review_num":377,"sentiment":"긍정","keywords":["좋은 진료","감사","자세한 상담"]}
+{"review_num":378,"sentiment":"긍정","keywords":["친절","저렴"]}
+{"review_num":379,"sentiment":"긍정","keywords":["안 아픔"]}
+{"review_num":380,"sentiment":"긍정","keywords":["무서움","친절","신경치료","안 아픔","재방문 의사"]}
+{"review_num":381,"sentiment":"긍정","keywords":["친절","깔끔","편안한 분위기","만족"]}
+{"review_num":382,"sentiment":"긍정","keywords":["친절한 상담","자세한 설명","비용 부담 없음","신경치료","맞춤 스케줄","치아 상태 개선"]}
+{"review_num":383,"sentiment":"긍정","keywords":["친절","아이 검진","거부감 없음","재방문 의사","감사"]}
+{"review_num":384,"sentiment":"긍정","keywords":["치아 살림","임플란트 대안","감사","안 아픔","추천","추가 치료"]}
+{"review_num":385,"sentiment":"긍정","keywords":["신경치료","안 아픔","꼼꼼","친절","깔끔한 시설","만족"]}
+{"review_num":386,"sentiment":"긍정","keywords":["최고","친절","치료 만족","감사","동네 치과"]}
+{"review_num":387,"sentiment":"긍정","keywords":["꼼꼼","상담 이해 쉬움","친절","만족","추천"]}
+{"review_num":388,"sentiment":"긍정","keywords":["친절","안 아픔","치료 만족"]}
+{"review_num":389,"sentiment":"긍정","keywords":["배려","빠른 실밥 제거","친절","불안 완화"]}
+{"review_num":390,"sentiment":"긍정","keywords":["턱관절 물리치료","가격 합리적","치료 잘함","재예약"]}
+{"review_num":391,"sentiment":"긍정","keywords":["스케일링","가글마취","잇몸마사지","만족","좋아요"]}
+{"review_num":392,"sentiment":"긍정","keywords":["깔끔한병원","친절","기분좋음","신경치료","안아픔","꼼꼼"]}
+{"review_num":393,"sentiment":"긍정","keywords":["친절","설명잘함","과잉진료없음","필요한진료","신뢰"]}
+{"review_num":394,"sentiment":"긍정","keywords":["정기검진","깨끗함","체계적","만족","안심","부모님"]}
+{"review_num":395,"sentiment":"긍정","keywords":["세심함","안아프게","신경써줌","재방문"]}
+{"review_num":396,"sentiment":"긍정","keywords":["잇몸치료","후기보고방문","꼼꼼진료","점진적치료","만족"]}
+{"review_num":397,"sentiment":"긍정","keywords":["시설좋음","진료잘함","과잉진료없음","가격합리적"]}
+{"review_num":398,"sentiment":"긍정","keywords":["친절","능력좋음","가격합리적"]}
+{"review_num":399,"sentiment":"긍정","keywords":["친절","가격할인","재방문의사"]}
+{"review_num":400,"sentiment":"긍정","keywords":["예약시간준수","바로진료","친절한설명","안심","만족"]}
+{"review_num":401,"sentiment":"긍정","keywords":["스케일링","친절","마취가글","통증없음","상담"]}
+{"review_num":402,"sentiment":"긍정","keywords":["잇몸통증","친절","엑스레이","설명","치료"]}
+{"review_num":403,"sentiment":"긍정","keywords":["사랑니","인레이","불편없음","상담친절","만족"]}
+{"review_num":404,"sentiment":"긍정","keywords":["친절","꼼꼼","통증없음","진료","감사"]}
+{"review_num":405,"sentiment":"긍정","keywords":["최신장비","깔끔","친절","늦은시간","만족"]}
+{"review_num":406,"sentiment":"긍정","keywords":["첫방문","친절","예약","소개","치료결정"]}
+{"review_num":407,"sentiment":"긍정","keywords":["친절","깔끔","추천","만족","병원"]}
+{"review_num":408,"sentiment":"긍정","keywords":["친절","직원","설명","재방문","만족"]}
+{"review_num":409,"sentiment":"긍정","keywords":["지인추천","시술","친절","깔끔","걱정없음"]}
+{"review_num":410,"sentiment":"긍정","keywords":["친절","선생님","만족"]}
+{"review_num":411,"sentiment":"긍정","keywords":["친절","안아픔","빠른시술"]}
+{"review_num":412,"sentiment":"긍정","keywords":["친절","간호사","지속치료"]}
+{"review_num":413,"sentiment":"긍정","keywords":["사랑니발치","소독","친절"]}
+{"review_num":414,"sentiment":"긍정","keywords":["사랑니발치","안아픔","개운함"]}
+{"review_num":415,"sentiment":"긍정","keywords":["친절","과잉진료없음"]}
+{"review_num":416,"sentiment":"긍정","keywords":["사랑니발치","안아픔","빠른시술","깔끔함","실력"]}
+{"review_num":417,"sentiment":"긍정","keywords":["과잉진료없음","만족","감사"]}
+{"review_num":418,"sentiment":"긍정","keywords":["친절","안아픔","마취","가족추천","합리적가격","과잉진료없음"]}
+{"review_num":419,"sentiment":"긍정","keywords":["시린이","안아픔","빠른치료","감동","재방문의사"]}
+{"review_num":420,"sentiment":"긍정","keywords":["스케일링","충치치료예약","쉬운설명","친절"]}
+{"review_num":421,"sentiment":"긍정","keywords":["친절","만족"]}
+{"review_num":422,"sentiment":"긍정","keywords":["임플란트","꾸준한 방문","따뜻한 안내","감사","친절"]}
+{"review_num":423,"sentiment":"긍정","keywords":["상담","진료","친절","자세한 설명"]}
+{"review_num":424,"sentiment":"중립","keywords":["내용없음"]}
+{"review_num":425,"sentiment":"긍정","keywords":["스케일링","감사","만족"]}
+{"review_num":426,"sentiment":"중립","keywords":["내용없음"]}
+{"review_num":427,"sentiment":"긍정","keywords":["검진","스케일링","꼼꼼","사진 설명","양치 방법","재방문 의사"]}
+{"review_num":428,"sentiment":"긍정","keywords":["친절","치료 잘함","깨끗함","감사"]}
+{"review_num":429,"sentiment":"긍정","keywords":["재방문","잇몸 치료","출혈","양치법","시린이 치약","통증 감소","꼼꼼","믿음"]}
+{"review_num":430,"sentiment":"긍정","keywords":["신뢰","꾸준히 방문","만족"]}
+{"review_num":431,"sentiment":"긍정","keywords":["사랑니","발치","안아픔","친절","최고"]}
+{"review_num":432,"sentiment":"긍정","keywords":["추천","꼼꼼","친절","과잉진료없음","설명","스케일링","잇몸","신뢰"]}
+{"review_num":433,"sentiment":"긍정","keywords":["깔끔","진료","치료","만족"]}
+{"review_num":434,"sentiment":"긍정","keywords":["친절","자세한설명","과잉진료없음","빠른치료","필요한부분"]}
+{"review_num":435,"sentiment":"긍정","keywords":["스케일링","예약","친절","안아픔","원장님","간호사"]}
+{"review_num":436,"sentiment":"긍정","keywords":["굿","만족"]}
+{"review_num":437,"sentiment":"긍정","keywords":["친절","치료잘함","만족"]}
+{"review_num":438,"sentiment":"긍정","keywords":["최고","친절","꼼꼼","진료","설명","굿"]}
+{"review_num":439,"sentiment":"긍정","keywords":["사랑니발치","소독","실밥제거","친절","감사"]}
+{"review_num":440,"sentiment":"긍정","keywords":["재방문","사랑니발치","친절","과잉진료없음","신뢰","사전안내","스케일링","안아픔"]}
+{"review_num":441,"sentiment":"긍정","keywords":["친절","대응","진료","만족"]}
+{"review_num":442,"sentiment":"긍정","keywords":["사랑니발치","크라운","친절","과잉진료없음","설명","통증배려"]}
+{"review_num":443,"sentiment":"긍정","keywords":["꼼꼼진료","편안함","스케일링","출혈없음","만족"]}
+{"review_num":444,"sentiment":"긍정","keywords":["사랑니발치","빠른시술","긴장완화","친절","감사"]}
+{"review_num":445,"sentiment":"긍정","keywords":["친절","과잉진료없음","믿음","사랑니발치","재방문"]}
+{"review_num":446,"sentiment":"긍정","keywords":["시림개선","잇몸출혈","빠른해결","효과","감사"]}
+{"review_num":447,"sentiment":"긍정","keywords":["깔끔","친절","설명","치료만족"]}
+{"review_num":448,"sentiment":"긍정","keywords":["첫방문","친절","관리법안내","깨끗함","만족"]}
+{"review_num":449,"sentiment":"긍정","keywords":["친절","통증없음","꼼꼼진료","믿음","감사"]}
+{"review_num":450,"sentiment":"긍정","keywords":["가족추천","믿음","재방문","치료감사"]}
+{"review_num":451,"sentiment":"긍정","keywords":["스케일링","안 아픔","개운함","치료 만족","감사"]}
+{"review_num":452,"sentiment":"긍정","keywords":["스케일링","잇몸치료","꼼꼼한 진료","설명 잘함","친절","안 아픔"]}
+{"review_num":453,"sentiment":"긍정","keywords":["충치치료","신경치료 걱정 해소","치료 잘함","친절","깨끗함","만족"]}
+{"review_num":454,"sentiment":"긍정","keywords":["꼼꼼한 설명","꼼꼼한 치료","만족"]}
+{"review_num":455,"sentiment":"긍정","keywords":["만족","좋아요"]}
+{"review_num":456,"sentiment":"긍정","keywords":["안 아픔","친절","꼼꼼한 치료","원장님","간호사","감사"]}
+{"review_num":457,"sentiment":"긍정","keywords":["대기 거의 없음","예약 변경 친절","스케일링","꼼꼼함","잇몸 마사지","만족"]}
+{"review_num":458,"sentiment":"긍정","keywords":["친절","꼼꼼함","만족"]}
+{"review_num":459,"sentiment":"긍정","keywords":["임플란트","과잉진료 없음","필요한 치료만","상담 만족","추천","만족"]}
+{"review_num":460,"sentiment":"긍정","keywords":["잇몸치료","만족","쾌적한 시설","친절한 상담","재방문 의사"]}
+{"review_num":461,"sentiment":"긍정","keywords":["치료 마무리","빠른 진료","칭찬","친절","추천"]}
+{"review_num":462,"sentiment":"긍정","keywords":["친절","세심함","만족","가까운 위치","깨끗한 시설"]}
+{"review_num":463,"sentiment":"긍정","keywords":["스케일링","안 아픔","친절","진료 잘함","재방문 의사"]}
+{"review_num":464,"sentiment":"긍정","keywords":["친절","빠른 진료","정확한 진료","통증 부위 파악"]}
+{"review_num":465,"sentiment":"긍정","keywords":["꼼꼼한 진료","설명 잘함","통증 케어","마취 안 아픔","만족"]}
+{"review_num":466,"sentiment":"긍정","keywords":["시림 개선","치료 잘함","설명 친절","편안함","빠르게 끝남"]}
+{"review_num":467,"sentiment":"긍정","keywords":["친절","과잉진료 없음","필요한 치료만","부담 없음","사후관리"]}
+{"review_num":468,"sentiment":"긍정","keywords":["불편함 파악","설명 차근차근","친절","만족"]}
+{"review_num":469,"sentiment":"긍정","keywords":["사랑니 발치","임플란트","안 아픔","시술 만족"]}
+{"review_num":470,"sentiment":"긍정","keywords":["단골","친절","대기 적음","만족"]}
+{"review_num":471,"sentiment":"긍정","keywords":["친절","진료","잘 봐줌"]}
+{"review_num":472,"sentiment":"긍정","keywords":["예약","대기 없음","바로 진료","꼼꼼","만족"]}
+{"review_num":473,"sentiment":"긍정","keywords":["원장 친절","간호사 친절","재방문","치과 트라우마","잘 치료"]}
+{"review_num":474,"sentiment":"긍정","keywords":["과잉진료 없음","필요한 진료","꾸준히 이용","만족"]}
+{"review_num":475,"sentiment":"긍정","keywords":["친절","자세한 설명","안 아프게","치료","만족"]}
+{"review_num":476,"sentiment":"긍정","keywords":["깨끗함","대기 짧음","친절","만족"]}
+{"review_num":477,"sentiment":"긍정","keywords":["사랑니","실밥 제거","친절","감사"]}
+{"review_num":478,"sentiment":"긍정","keywords":["항상 친절","진료","편안한 분위기","감사"]}
+{"review_num":479,"sentiment":"긍정","keywords":["좋아요","만족"]}
+{"review_num":480,"sentiment":"긍정","keywords":["구강검진","진료 잘 봄","깔끔","재이용 의사","만족"]}
+{"review_num":481,"sentiment":"긍정","keywords":["넓고 깨끗한 환경","친절","과잉진료 없음","꼼꼼한 치료","만족"]}
+{"review_num":482,"sentiment":"긍정","keywords":["데스크 친절","스케일링 안 시림","원장님 진료","나긋나긋","재방문 예약"]}
+{"review_num":483,"sentiment":"긍정","keywords":["정기검진","친절","좋음"]}
+{"review_num":484,"sentiment":"긍정","keywords":["아이 진료","친절","편안한 분위기","발치","계속 다닐 의향"]}
+{"review_num":485,"sentiment":"긍정","keywords":["상냥함","세심한 진료","스케일링 안 아픔","만족"]}
+{"review_num":486,"sentiment":"긍정","keywords":["무서움 완화","친절","배려","감사"]}
+{"review_num":487,"sentiment":"긍정","keywords":["충치 치료","마취 안 아픔","빠른 치료","만족","추가 내원"]}
+{"review_num":488,"sentiment":"긍정","keywords":["구강검진","스케일링 꼼꼼","자세한 진료","치료 불필요","정기검진 의향"]}
+{"review_num":489,"sentiment":"긍정","keywords":["의료진 친절","시설 깨끗","만족"]}
+{"review_num":490,"sentiment":"긍정","keywords":["친절","과잉진료 없음","계속 진료","만족"]}
+{"review_num":491,"sentiment":"긍정","keywords":["꾸준한 치료","꼼꼼한 진료","만족"]}
+{"review_num":492,"sentiment":"긍정","keywords":["원장","친절","만족"]}
+{"review_num":493,"sentiment":"긍정","keywords":["친절","꼼꼼","진료"]}
+{"review_num":494,"sentiment":"긍정","keywords":["친절","꼼꼼","안아픔","치료 만족","합리적 금액","치과공포증 해소"]}
+{"review_num":495,"sentiment":"긍정","keywords":["아이 치료","친절한 설명","편안한 진료"]}
+{"review_num":496,"sentiment":"긍정","keywords":["스케일링","어금니 치료","친절","설명","추천"]}
+{"review_num":497,"sentiment":"긍정","keywords":["친절한 상담","진료 만족","꾸준한 치료"]}
+{"review_num":498,"sentiment":"긍정","keywords":["깔끔한 병원","친절","치료 잘함","설명","안아픔","부담감 감소"]}
+{"review_num":499,"sentiment":"긍정","keywords":["시설 좋음","친절","꼼꼼","스케일링","만족"]}
+{"review_num":500,"sentiment":"긍정","keywords":["당일 발치","긴장 완화","만족","친절"]}
+{"review_num":501,"sentiment":"긍정","keywords":["감사","만족"]}
+{"review_num":502,"sentiment":"긍정","keywords":["통증없음","꼼꼼함","신뢰","잇몸치료","충치치료","앞니치료","추천","감사"]}
+{"review_num":503,"sentiment":"긍정","keywords":["스케일링","사랑니","통증없음","부담없음","친절"]}
+{"review_num":504,"sentiment":"긍정","keywords":["직원친절","꼼꼼함","설명잘함","응대좋음"]}
+{"review_num":505,"sentiment":"긍정","keywords":["정기검진","꾸준한관리","감사","지인추천"]}
+{"review_num":506,"sentiment":"긍정","keywords":["친절","직원응대","기분좋음"]}
+{"review_num":507,"sentiment":"긍정","keywords":["마취","통증없음","치료빠름","두려움해소"]}
+{"review_num":508,"sentiment":"긍정","keywords":["충치치료","마취안아픔","두려움","감사"]}
+{"review_num":509,"sentiment":"긍정","keywords":["친절","구체적설명","꼼꼼함","재방문"]}
+{"review_num":510,"sentiment":"긍정","keywords":["충치치료","자세한설명","친절","치료빠름","만족"]}
+{"review_num":511,"sentiment":"긍정","keywords":["가까움","친절","기다려줌","설명 자세함","편안함"]}
+{"review_num":512,"sentiment":"긍정","keywords":["예약","친절한 응대","치료 능숙","재방문 의사","만족"]}
+{"review_num":513,"sentiment":"긍정","keywords":["깔끔한 내부","좋은 시설","설명 이해 쉬움","진료 만족","감사"]}
+{"review_num":514,"sentiment":"긍정","keywords":["응대 좋음","매우 친절","가까움","재이용 의사"]}
+{"review_num":515,"sentiment":"긍정","keywords":["정기 스케일링","꼼꼼함","만족"]}
+{"review_num":516,"sentiment":"긍정","keywords":["친절한 진료","감사","지속적 만족"]}
+{"review_num":517,"sentiment":"긍정","keywords":["과잉진료 없음","환자 중심","진료 잘함","만족","추천"]}
+{"review_num":518,"sentiment":"긍정","keywords":["사랑니 발치","빠른 시술","놀람","턱관절 물리치료","친절"]}
+{"review_num":519,"sentiment":"긍정","keywords":["친절","과잉진료 없음","꼼꼼한 체크","통증 없음","추천"]}
+{"review_num":520,"sentiment":"긍정","keywords":["사랑니","예약","사후관리 안내","감사","만족"]}
+{"review_num":521,"sentiment":"긍정","keywords":["정기검진","치과선택","만족"]}
+{"review_num":522,"sentiment":"긍정","keywords":["깨끗함","친절","설명","빠른치료"]}
+{"review_num":523,"sentiment":"긍정","keywords":["깔끔함","위생","청결"]}
+{"review_num":524,"sentiment":"긍정","keywords":["만족","좋음"]}
+{"review_num":525,"sentiment":"긍정","keywords":["친절","정확한진단","통증원인","실력"]}
+{"review_num":526,"sentiment":"긍정","keywords":["빠른발치","사랑니","친절","만족"]}
+{"review_num":527,"sentiment":"긍정","keywords":["사랑니발치","친절","통증없음","과잉진료없음","수월함"]}
+{"review_num":528,"sentiment":"긍정","keywords":["이해하기쉬운설명","소통","만족"]}
+{"review_num":529,"sentiment":"긍정","keywords":["통증없음","빠른치료","설명"]}
+{"review_num":530,"sentiment":"긍정","keywords":["친절","설명","안내","사랑니발치"]}
+{"review_num":531,"sentiment":"긍정","keywords":["친절","과잉진료없음","꼼꼼","추천"]}
+{"review_num":532,"sentiment":"긍정","keywords":["스케일링","시설깨끗","친절","상세설명","재방문"]}
+{"review_num":533,"sentiment":"긍정","keywords":["친절","발치","안아픔","안심"]}
+{"review_num":534,"sentiment":"긍정","keywords":["사랑니","치료잘함","안아픔","감사"]}
+{"review_num":535,"sentiment":"긍정","keywords":["상세설명","시설깔끔","만족","재방문"]}
+{"review_num":536,"sentiment":"긍정","keywords":["임플란트","상담","설명잘함","과잉진료없음","가격합리적"]}
+{"review_num":537,"sentiment":"긍정","keywords":["사랑니발치","친절","안심","안아픔","빠름"]}
+{"review_num":538,"sentiment":"긍정","keywords":["상담","친절","설명"]}
+{"review_num":539,"sentiment":"긍정","keywords":["치료","만족","잘끝남"]}
+{"review_num":540,"sentiment":"중립","keywords":["잇몸치료"]}
+{"review_num":541,"sentiment":"중립","keywords":["잇몸치료"]}
+{"review_num":542,"sentiment":"긍정","keywords":["통증적음","치료"]}
+{"review_num":543,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":544,"sentiment":"긍정","keywords":["친절","치료만족","재방문의사"]}
+{"review_num":545,"sentiment":"중립","keywords":["잇몸치료"]}
+{"review_num":546,"sentiment":"긍정","keywords":["친절","과잉진료없음","설명","시설깨끗","가격합리적"]}
+{"review_num":547,"sentiment":"긍정","keywords":["스케일링","친절","꼼꼼한설명"]}
+{"review_num":548,"sentiment":"긍정","keywords":["예약","세심한배려","잇몸치료","레진","시설쾌적"]}
+{"review_num":549,"sentiment":"긍정","keywords":["야간진료","친절","재방문의사"]}
+{"review_num":550,"sentiment":"중립","keywords":["잇몸치료"]}
+{"review_num":551,"sentiment":"긍정","keywords":["사랑니","안아픔","긴장완화","상냥함","친절"]}
+{"review_num":552,"sentiment":"긍정","keywords":["깔끔함","친절","추천","치과환경"]}
+{"review_num":553,"sentiment":"긍정","keywords":["치아통증","깨끗함","친절응대","진료만족","추천"]}
+{"review_num":554,"sentiment":"긍정","keywords":["데스크친절","원장님친절","치료잘함","만족","재방문의사"]}
+{"review_num":555,"sentiment":"긍정","keywords":["친절","꼼꼼","스케일링"]}
+{"review_num":556,"sentiment":"긍정","keywords":["스케일링","데스크친절","설명꼼꼼","칫솔질방법","감사"]}
+{"review_num":557,"sentiment":"긍정","keywords":["치과공포완화","친절","설명자세함","안아픔","감동","재방문의사"]}
+{"review_num":558,"sentiment":"긍정","keywords":["친절","스케일링","안아픔","꼼꼼","집근처","만족"]}
+{"review_num":559,"sentiment":"긍정","keywords":["레진치료","충치검사","꼼꼼진료","감사","치료완료"]}
+{"review_num":560,"sentiment":"긍정","keywords":["충치치료","친절","치료만족","재방문의사","감사"]}
+{"review_num":561,"sentiment":"긍정","keywords":["친절","안아픔","치료"]}
+{"review_num":562,"sentiment":"중립","keywords":["친절","대기시간","예약"]}
+{"review_num":563,"sentiment":"긍정","keywords":["꼼꼼","설명","스케일링","검진"]}
+{"review_num":564,"sentiment":"긍정","keywords":["빠름","정확","안아픔","친절"]}
+{"review_num":565,"sentiment":"긍정","keywords":["재방문","친절","배려","과잉진료없음","안아픔"]}
+{"review_num":566,"sentiment":"긍정","keywords":["만족","좋아요"]}
+{"review_num":567,"sentiment":"중립","keywords":["자주방문"]}
+{"review_num":568,"sentiment":"긍정","keywords":["턱관절","친절","진심","과잉진료없음","시설깔끔"]}
+{"review_num":569,"sentiment":"긍정","keywords":["친절한설명","스케일링","긴장완화","배려"]}
+{"review_num":570,"sentiment":"긍정","keywords":["야간진료","빠른진찰","친절한설명","응급"]}
+{"review_num":571,"sentiment":"긍정","keywords":["친절","꼼꼼한 진료","만족"]}
+{"review_num":572,"sentiment":"긍정","keywords":["친절","꼼꼼한 진료","접근성","만족"]}
+{"review_num":573,"sentiment":"긍정","keywords":["친절","과잉진료 없음","만족","치료"]}
+{"review_num":574,"sentiment":"긍정","keywords":["만족","좋음"]}
+{"review_num":575,"sentiment":"긍정","keywords":["친절","설명 잘함","이해 쉬움","사진 설명","첫방문 만족"]}
+{"review_num":576,"sentiment":"긍정","keywords":["친절","통증 없음","마취 안 아픔","합리적 가격","추천","기분 좋음"]}
+{"review_num":577,"sentiment":"긍정","keywords":["친절","상세 설명","통증 배려","만족"]}
+{"review_num":578,"sentiment":"긍정","keywords":["친절","꼼꼼한 설명","과잉진료 없음","스케일링","통증 없음","만족"]}
+{"review_num":579,"sentiment":"긍정","keywords":["만족","좋음"]}
+{"review_num":580,"sentiment":"긍정","keywords":["마취 안 아픔","치료 빠름","두려움 해소","만족"]}
+{"review_num":581,"sentiment":"긍정","keywords":["친절","깔끔한 인테리어","자세한 설명"]}
+{"review_num":582,"sentiment":"긍정","keywords":["깔끔한 인테리어","저렴한 가격","친절한 원장","치료 전 설명"]}
+{"review_num":583,"sentiment":"긍정","keywords":["깨끗한 시설","친절","섬세함","의사 인상 좋음","강추"]}
+{"review_num":584,"sentiment":"긍정","keywords":["새로 생김","깔끔함","친절","스케일링","안 아픔"]}
+{"review_num":585,"sentiment":"긍정","keywords":["사랑니 발치","꼼꼼함","안 아픔","진료 만족"]}
+{"review_num":586,"sentiment":"긍정","keywords":["스케일링","꼼꼼함","친절한 원장"]}
+{"review_num":587,"sentiment":"긍정","keywords":["친절","진료 잘 봄","아기 구강검진","재방문 의사"]}
+{"review_num":588,"sentiment":"긍정","keywords":["예약 없이 방문","설명 친절","안 아픈 치료","깔끔한 시설","선물"]}
+{"review_num":589,"sentiment":"긍정","keywords":["대기 시간 적음","설명 잘함","친절"]}
+{"review_num":590,"sentiment":"긍정","keywords":["감사 인사","변함없는 친절","가족 같은 분위기","CS 최고","추천"]}
+{"review_num":591,"sentiment":"긍정","keywords":["사랑니발치","충치치료","임플란트","친절","1주년행사","가격","선물"]}
+{"review_num":592,"sentiment":"긍정","keywords":["1주년행사","소개","진료","치료","만족"]}
+{"review_num":593,"sentiment":"긍정","keywords":["후기","스케일링","마취","안아픔","재방문"]}
+{"review_num":594,"sentiment":"긍정","keywords":["친절","설명","어머님","이해하기쉬움","간호사친절"]}
+{"review_num":595,"sentiment":"긍정","keywords":["원장친절","치위생사","상담","상세설명","과잉치료없음","1주년이벤트","저렴"]}
+{"review_num":596,"sentiment":"긍정","keywords":["집주변","엑스레이","스케일링","안아픔","잇몸마사지","꼼꼼","재방문"]}
+{"review_num":597,"sentiment":"긍정","keywords":["첫스케일링","시원함","치석제거","친절한답변","치아관리"]}
+{"review_num":598,"sentiment":"긍정","keywords":["깔끔한병원","친절","치료잘함","집근처","만족"]}
+{"review_num":599,"sentiment":"긍정","keywords":["턱관절","친절","자세한설명","대기없음","과잉진료없음"]}
+{"review_num":600,"sentiment":"긍정","keywords":["친절","치료","감사"]}
+{"review_num":601,"sentiment":"긍정","keywords":["친절","상담","설명","치아보존","신경치료"]}
+{"review_num":602,"sentiment":"긍정","keywords":["꼼꼼","마취","안아픔","친절"]}
+{"review_num":603,"sentiment":"긍정","keywords":["친절","존중","설명","과잉진료없음","시설"]}
+{"review_num":604,"sentiment":"부정","keywords":["방문강요","불편","압박","재방문"]}
+{"review_num":605,"sentiment":"긍정","keywords":["안아픔","만족","감사"]}
+{"review_num":606,"sentiment":"긍정","keywords":["깨끗함","친절","과잉진료없음","꼼꼼","재방문"]}
+{"review_num":607,"sentiment":"긍정","keywords":["신경치료","안아픔","실력","추천"]}
+{"review_num":608,"sentiment":"긍정","keywords":["친절","안아픔","사랑니발치","붓기없음","마취"]}
+{"review_num":609,"sentiment":"긍정","keywords":["깨끗함","대기짧음","과잉진료없음","친절","순차치료"]}
+{"review_num":610,"sentiment":"긍정","keywords":["시설","친절","스케일링","정기검진","상담"]}
+{"review_num":611,"sentiment":"긍정","keywords":["정기검진","빠른진료","시설","깨끗함"]}
+{"review_num":612,"sentiment":"긍정","keywords":["깨끗함","친절"]}
+{"review_num":613,"sentiment":"긍정","keywords":["친절","꼼꼼함","마취","통증없음","설명"]}
+{"review_num":614,"sentiment":"긍정","keywords":["친절","만족"]}
+{"review_num":615,"sentiment":"긍정","keywords":["진료","스케일링","재방문"]}
+{"review_num":616,"sentiment":"긍정","keywords":["안내","친절","만족","자세한설명"]}
+{"review_num":617,"sentiment":"긍정","keywords":["친절","편안한진료"]}
+{"review_num":618,"sentiment":"긍정","keywords":["임플란트","편안함","친절"]}
+{"review_num":619,"sentiment":"긍정","keywords":["친절","업무처리","치료","진료잘함","추천"]}
+{"review_num":620,"sentiment":"긍정","keywords":["친절","과잉진료없음","치료","마취","통증없음","추천"]}
+{"review_num":621,"sentiment":"긍정","keywords":["스케일링","안내","친절","꼼꼼","만족","감사"]}
+{"review_num":622,"sentiment":"긍정","keywords":["스케일링","꼼꼼","안아픔","검진","재방문"]}
+{"review_num":623,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":624,"sentiment":"긍정","keywords":["오픈","꼼꼼","친절","진료진","정기검진","이상없음"]}
+{"review_num":625,"sentiment":"긍정","keywords":["가족소개","친절","만족","임플란트","안아픔"]}
+{"review_num":626,"sentiment":"긍정","keywords":["사랑니","매복","신경근접","안아픔","빠름","친절","연락","재방문"]}
+{"review_num":627,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":628,"sentiment":"긍정","keywords":["첫방문","친절","통증최소화","잇몸치료","감사"]}
+{"review_num":629,"sentiment":"긍정","keywords":["어금니통증","정기검진","전문장비","초기충치발견","꼼꼼","사후체크","감사"]}
+{"review_num":630,"sentiment":"긍정","keywords":["치료","꼼꼼","만족"]}
+{"review_num":631,"sentiment":"긍정","keywords":["첫방문","친절","의사","위생사","아이치료","정기검진"]}
+{"review_num":632,"sentiment":"긍정","keywords":["사랑니","통증","빠른치료","안아픔","붓기없음","친절"]}
+{"review_num":633,"sentiment":"긍정","keywords":["친절","통증확인","꼼꼼","상태점검"]}
+{"review_num":634,"sentiment":"긍정","keywords":["치과공포","친절","간호사","원장","치료만족","추천"]}
+{"review_num":635,"sentiment":"긍정","keywords":["친절","치과공포","마취","안아픔","편안한치료","감사"]}
+{"review_num":636,"sentiment":"긍정","keywords":["전체검진","친절","직원","스케일링","설명","치아관리","추천"]}
+{"review_num":637,"sentiment":"긍정","keywords":["친절","치료","감사"]}
+{"review_num":638,"sentiment":"긍정","keywords":["첫방문","친절","꼼꼼","문제점설명","재방문"]}
+{"review_num":639,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":640,"sentiment":"긍정","keywords":["추천","자연치아보존","걱정해소","임플란트회피","안아픔","친절","크라운치료","만족"]}
+{"review_num":641,"sentiment":"긍정","keywords":["스케일링","꼼꼼","친절","시린이","설명","통증완화"]}
+{"review_num":642,"sentiment":"긍정","keywords":["잇몸통증","스케일링","친절","꼼꼼","레진","청결"]}
+{"review_num":643,"sentiment":"긍정","keywords":["깔끔","꼼꼼","스케일링","격려","편안함","감사"]}
+{"review_num":644,"sentiment":"긍정","keywords":["턱관절","물리치료","친절","설명","가격","만족"]}
+{"review_num":645,"sentiment":"긍정","keywords":["아이","발치","친절","설명","자세함","재방문"]}
+{"review_num":646,"sentiment":"긍정","keywords":["사랑니","발치","실밥","친절","대기없음","회복"]}
+{"review_num":647,"sentiment":"긍정","keywords":["잇몸통증","청결","설명","스케일링","꼼꼼","사랑니"]}
+{"review_num":648,"sentiment":"긍정","keywords":["친절","스케일링","꼼꼼","통증없음","만족"]}
+{"review_num":649,"sentiment":"긍정","keywords":["치과공포","친절","통증없음","진료","안심"]}
+{"review_num":650,"sentiment":"긍정","keywords":["사랑니","급예약","친절","꼼꼼","청결","안심"]}
+{"review_num":651,"sentiment":"긍정","keywords":["친절","마음 편함","진료","치료"]}
+{"review_num":652,"sentiment":"긍정","keywords":["꼼꼼","친절"]}
+{"review_num":653,"sentiment":"긍정","keywords":["안아픔","친절","마취","치료"]}
+{"review_num":654,"sentiment":"긍정","keywords":["친절","감사","긍정적 안내","회복"]}
+{"review_num":655,"sentiment":"긍정","keywords":["친절","설명 꼼꼼","도움","재방문"]}
+{"review_num":656,"sentiment":"긍정","keywords":["친절","과잉진료 없음","가격","스케일링","설명"]}
+{"review_num":657,"sentiment":"긍정","keywords":["첫방문","가까움","친절","만족","재방문 의사"]}
+{"review_num":658,"sentiment":"긍정","keywords":["친절","설명","스케일링","꼼꼼","감사"]}
+{"review_num":659,"sentiment":"긍정","keywords":["친절","치료","감사"]}
+{"review_num":660,"sentiment":"긍정","keywords":["시설 깨끗","친절","꼼꼼","직원"]}
+{"review_num":661,"sentiment":"긍정","keywords":["친절한 진료","설명 자세함","간호사 주의사항 안내","턱관절 치료","병원 크고 깔끔함"]}
+{"review_num":662,"sentiment":"긍정","keywords":["병원 깔끔함","원장\/직원 친절","설명 친절","치료 만족","재방문 의사"]}
+{"review_num":663,"sentiment":"긍정","keywords":["스케일링","새로 생긴 병원","위생적","친절","치아 상태 자세한 설명"]}
+{"review_num":664,"sentiment":"긍정","keywords":["최신 의료기기","믿음","설명 꼼꼼","안심","과잉진료 없음","치료비 부담 적음","강력 추천"]}
+{"review_num":665,"sentiment":"긍정","keywords":["시설\/인테리어 깨끗","직원 친절","가격 저렴","가족 방문","치석제거","미백 이벤트"]}
+{"review_num":666,"sentiment":"긍정","keywords":["의사 실력","마취 안 아픔","친절","치료과정 브리핑","신경치료 빠름","만족"]}
+{"review_num":667,"sentiment":"긍정","keywords":["원장\/직원 친절","진료 깔끔","과잉진료 없음","만족"]}
+{"review_num":668,"sentiment":"긍정","keywords":["치과 공포","친절한 설명","꼼꼼함","감사"]}
+{"review_num":669,"sentiment":"긍정","keywords":["충치치료","꼼꼼한 설명","친절","진료 만족","재방문"]}
+{"review_num":670,"sentiment":"긍정","keywords":["첫 방문","모두 친절","자세한 설명","계속 다닐 의사"]}
+{"review_num":671,"sentiment":"긍정","keywords":["스케일링","검진","친절","과잉진료 없음","꼼꼼","안 아픔","관리법 설명","재방문 의사"]}
+{"review_num":672,"sentiment":"긍정","keywords":["친절","편하게 진료","만족"]}
+{"review_num":673,"sentiment":"긍정","keywords":["친절","만족","직원 응대"]}
+{"review_num":674,"sentiment":"긍정","keywords":["사랑니 발치","잇몸치료","조언","치료 수월","감사","추천","최신 시설","장비"]}
+{"review_num":675,"sentiment":"긍정","keywords":["친절","인테리어","상담","자세한 설명","신뢰","믿음","추천","초강추"]}
+{"review_num":676,"sentiment":"긍정","keywords":["재방문","친절","꼼꼼한 진료","시린이 개선","감사"]}
+{"review_num":677,"sentiment":"긍정","keywords":["올바른 진료","환자 입장","설명","만족","재방문 의사","감사"]}
+{"review_num":678,"sentiment":"긍정","keywords":["임플란트","가격","만족","식사 가능","감사","원장님"]}
+{"review_num":679,"sentiment":"긍정","keywords":["스케일링","안 아픔","꼼꼼","친절한 설명","치과 공포 완화","저렴","개원이벤트"]}
+{"review_num":680,"sentiment":"긍정","keywords":["꼼꼼","안 아픔","치료","만족"]}
+{"review_num":681,"sentiment":"긍정","keywords":["사랑니","마취","안아픔","빠른발치","감사"]}
+{"review_num":682,"sentiment":"긍정","keywords":["가족추천","꼼꼼한검진","친절한설명","시설깔끔","과잉진료없음","관리법안내"]}
+{"review_num":683,"sentiment":"긍정","keywords":["의사친절","간호사친절","만족","집앞","재방문의사"]}
+{"review_num":684,"sentiment":"긍정","keywords":["신규오픈","깔끔","친절","진료만족"]}
+{"review_num":685,"sentiment":"긍정","keywords":["치과공포","친절","편안한진료","과잉진료없음","맞춤진료","재방문"]}
+{"review_num":686,"sentiment":"긍정","keywords":["깔끔","친절","과잉진료없음","만족"]}
+{"review_num":687,"sentiment":"긍정","keywords":["아이치료","꼼꼼","친절한설명","무서움해소","감사","계속방문"]}
+{"review_num":688,"sentiment":"긍정","keywords":["야간진료","예약","깨끗함","마취안아픔","섬세한치료","만족"]}
+{"review_num":689,"sentiment":"긍정","keywords":["친절","재내원","진료잘봄","양치방법교육","감사"]}
+{"review_num":690,"sentiment":"긍정","keywords":["데스크친절","기분좋음","원장친절","과잉진료없음","괜찮음"]}
+{"review_num":691,"sentiment":"긍정","keywords":["신경치료","안아픔","치료잘함"]}
+{"review_num":692,"sentiment":"긍정","keywords":["대기짧음","진료만족","고마움"]}
+{"review_num":693,"sentiment":"긍정","keywords":["친절","안아픔","진료잘함"]}
+{"review_num":694,"sentiment":"긍정","keywords":["예약변경","배려","치료만족"]}
+{"review_num":695,"sentiment":"중립","keywords":["의미불명","짧은리뷰"]}
+{"review_num":696,"sentiment":"긍정","keywords":["최신장비","꼼꼼함","추천"]}
+{"review_num":697,"sentiment":"긍정","keywords":["친절","만족"]}
+{"review_num":698,"sentiment":"긍정","keywords":["친절","가격좋음","추천"]}
+{"review_num":699,"sentiment":"긍정","keywords":["설명잘함","친절","깨끗함"]}
+{"review_num":700,"sentiment":"긍정","keywords":["친절","깨끗함","만족"]}
+{"review_num":701,"sentiment":"긍정","keywords":["친절","나긋한 진료","무서움 완화","사랑니 발치","스케일링","만족"]}
+{"review_num":702,"sentiment":"긍정","keywords":["과잉진료 없음","꼼꼼한 진료","편안함","친절","소개"]}
+{"review_num":703,"sentiment":"긍정","keywords":["스케일링","설명","꼼꼼함","치과 정착","재방문 의사"]}
+{"review_num":704,"sentiment":"긍정","keywords":["야간진료","원장님","치위생사","실력","추천"]}
+{"review_num":705,"sentiment":"긍정","keywords":["가까움","친절","자세한 설명","가족 치료","재이용"]}
+{"review_num":706,"sentiment":"긍정","keywords":["친절한 안내","만족","단골","감사"]}
+{"review_num":707,"sentiment":"긍정","keywords":["깨끗함","친절","다정한 말투","신뢰","추천","재방문"]}
+{"review_num":708,"sentiment":"긍정","keywords":["꼼꼼한 설명","잘함","만족"]}
+{"review_num":709,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":710,"sentiment":"긍정","keywords":["집앞","친절","믿음","지속 치료","재방문"]}
+{"review_num":711,"sentiment":"긍정","keywords":["재방문","야간진료","직장인","꼼꼼","설명"]}
+{"review_num":712,"sentiment":"긍정","keywords":["야간진료","방문편의","친절","재방문"]}
+{"review_num":713,"sentiment":"긍정","keywords":["스케일링","꼼꼼","만족","재방문의사"]}
+{"review_num":714,"sentiment":"긍정","keywords":["친절","진료","감사"]}
+{"review_num":715,"sentiment":"긍정","keywords":["치아통증","친절","설명","레진치료","신규병원"]}
+{"review_num":716,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":717,"sentiment":"긍정","keywords":["친절","문제점발견","만족"]}
+{"review_num":718,"sentiment":"긍정","keywords":["가까움","추천","친절","자세한설명"]}
+{"review_num":719,"sentiment":"긍정","keywords":["첫방문","스케일링","친절","재방문의사"]}
+{"review_num":720,"sentiment":"긍정","keywords":["재방문","예약변경","친절응대","빠른진료","추천"]}
+{"review_num":721,"sentiment":"긍정","keywords":["친절","상담","불편사항","안내"]}
+{"review_num":722,"sentiment":"긍정","keywords":["깔끔한 인테리어","친절한 데스크","친절한 상담","재방문의사","자세한 설명","추천"]}
+{"review_num":723,"sentiment":"긍정","keywords":["집 근처","믿고 가는 치과","깨끗함","친절한 진료","감사"]}
+{"review_num":724,"sentiment":"긍정","keywords":["첫방문","검진","친절","재방문"]}
+{"review_num":725,"sentiment":"긍정","keywords":["재방문","마취 안 아픔","신경치료","레진","꼼꼼한 치료","결과 만족","감사"]}
+{"review_num":726,"sentiment":"긍정","keywords":["깨끗함","친절","오픈이벤트","저렴한 스케일링","무료 검진","상세 설명","강추"]}
+{"review_num":727,"sentiment":"긍정","keywords":["친절","철저한 소독","세세한 검진","상세한 설명","이해 쉬움","치과 변경 고려"]}
+{"review_num":728,"sentiment":"긍정","keywords":["깨끗함","친절","꼼꼼한 진료","사전 안내","덜 아픔","마취 배려","설명 잘함"]}
+{"review_num":729,"sentiment":"긍정","keywords":["친절","감사"]}
+{"review_num":730,"sentiment":"긍정","keywords":["깔끔한 내부","친절한 의료진","꼼꼼한 진료","신뢰","만족"]}
+{"review_num":731,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":732,"sentiment":"긍정","keywords":["깔끔","친절"]}
+{"review_num":733,"sentiment":"긍정","keywords":["좋은 경험","스케일링","전문적","꼼꼼","친절","설명","신뢰"]}
+{"review_num":734,"sentiment":"긍정","keywords":["항상","친절"]}
+{"review_num":735,"sentiment":"긍정","keywords":["예약없이","설명","치료","만족"]}
+{"review_num":736,"sentiment":"긍정","keywords":["초진","친절","스케일링","잇몸","피 안남","감동","재방문"]}
+{"review_num":737,"sentiment":"긍정","keywords":["친절"]}
+{"review_num":738,"sentiment":"긍정","keywords":["의사","친절","꼼꼼","재방문"]}
+{"review_num":739,"sentiment":"긍정","keywords":["늦은 시간","꼼꼼","설명","친절","직원","기분 좋음"]}
+{"review_num":740,"sentiment":"긍정","keywords":["급하게","꼼꼼","친절","통증 원인","치아 금","통증없이 치료","재방문"]}
+{"review_num":741,"sentiment":"긍정","keywords":["감사","친절","응급진료","통증완화","치료만족","원장님"]}
+{"review_num":742,"sentiment":"긍정","keywords":["마취","안아픔","신경치료","친절","설명자세","만족"]}
+{"review_num":743,"sentiment":"긍정","keywords":["책임진료","끝까지진료","만족","감사","추천"]}
+{"review_num":744,"sentiment":"긍정","keywords":["검진","스케일링","꼼꼼","상세설명","치료안내","감사"]}
+{"review_num":745,"sentiment":"긍정","keywords":["치료","만족","재방문"]}
+{"review_num":746,"sentiment":"긍정","keywords":["발치","임플란트","만족"]}
+{"review_num":747,"sentiment":"긍정","keywords":["과잉진료없음","설명자세","신뢰","만족"]}
+{"review_num":748,"sentiment":"긍정","keywords":["첫방문","깔끔","친절","상세설명","인상적","신뢰"]}
+{"review_num":749,"sentiment":"긍정","keywords":["수술","안아픔","따뜻함","감사","만족"]}
+{"review_num":750,"sentiment":"긍정","keywords":["친절","충치치료","만족","재방문"]}
+{"review_num":751,"sentiment":"긍정","keywords":["안아픔","진료","실력"]}
+{"review_num":752,"sentiment":"긍정","keywords":["스케일링","안아픔","시설","친절"]}
+{"review_num":753,"sentiment":"긍정","keywords":["친절","설명","안심","스케일링","선물"]}
+{"review_num":754,"sentiment":"긍정","keywords":["안아픔","치료","실력","원장님"]}
+{"review_num":755,"sentiment":"긍정","keywords":["친절","편안함","진료"]}
+{"review_num":756,"sentiment":"긍정","keywords":["친절","직원","기분좋음","진료"]}
+{"review_num":757,"sentiment":"긍정","keywords":["오픈이벤트","친절","꼼꼼","검진"]}
+{"review_num":758,"sentiment":"긍정","keywords":["친절","데스크","치위생사","깨끗함","신규"]}
+{"review_num":759,"sentiment":"긍정","keywords":["구강검진","친절","꼼꼼","인테리어","오픈행사"]}
+{"review_num":760,"sentiment":"긍정","keywords":["친절","치아보존","노력","추천"]}
+{"review_num":761,"sentiment":"긍정","keywords":["개업 이벤트","스케일링","저렴","깨끗","만족","감사"]}
+{"review_num":762,"sentiment":"긍정","keywords":["꼼꼼","친절","상담","감사"]}
+{"review_num":763,"sentiment":"긍정","keywords":["꼼꼼","설명","과잉진료 없음","친절","재방문 의사"]}
+{"review_num":764,"sentiment":"긍정","keywords":["친절","과잉진료 없음","저렴","깨끗"]}
+{"review_num":765,"sentiment":"긍정","keywords":["친절","깔끔","리뷰 신뢰","치료","만족"]}
+{"review_num":766,"sentiment":"긍정","keywords":["발치","안 아픔","친절","감사","아이 만족"]}
+{"review_num":767,"sentiment":"긍정","keywords":["첫 방문","원장님 친절","직원 친절","사랑니","재방문 의사"]}
+{"review_num":768,"sentiment":"긍정","keywords":["어금니 통증","축농증","정확한 안내","친절한 설명","선물","감사"]}
+{"review_num":769,"sentiment":"긍정","keywords":["새로 개원","깔끔","친절","만족"]}
+{"review_num":770,"sentiment":"긍정","keywords":["상담","치료","편안함","친절","만족","재이용"]}
+{"review_num":771,"sentiment":"긍정","keywords":["새 장비","친절","위로","손 잡아줌","사랑니 발치 빠름","충치치료"]}
+{"review_num":772,"sentiment":"긍정","keywords":["실밥 제거","감사","원장님"]}
+{"review_num":773,"sentiment":"긍정","keywords":["친절","진료 잘함","꼼꼼"]}
+{"review_num":774,"sentiment":"긍정","keywords":["새로 오픈","시설 좋음","친절","오픈선물"]}
+{"review_num":775,"sentiment":"긍정","keywords":["집 근처","스케일링","깨끗함","친절"]}
+{"review_num":776,"sentiment":"긍정","keywords":["임플란트 상담","깔끔","직원 친절","상세 설명","안심","집 근처"]}
+{"review_num":777,"sentiment":"긍정","keywords":["원장님 친절","설명 잘함","풍치 치료","마취 안 아픔"]}
+{"review_num":778,"sentiment":"긍정","keywords":["과잉진료 없음","친절","깔끔","넓음","세심함"]}
+{"review_num":779,"sentiment":"중립","keywords":["아버지","임플란트 4개","이벤트","가격 250"]}
+{"review_num":780,"sentiment":"긍정","keywords":["오픈","사람 많음","대기","스케일링 이벤트","개원선물","친절"]}
